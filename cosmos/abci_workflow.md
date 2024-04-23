@@ -1,5 +1,7 @@
 # 基于ABCI的区块链节点如何处理交易并产生新的区块
 
+[Medium](https://andybowu.medium.com/)
+
 ## ABCI
 ABCI是Application BlockChain Interface的缩写，是Tendermint区块链的核心设计之一。ABCI定义了区块链节点和应用程序之间的接口，使得应用程序可以独立于区块链节点运行。ABCI的设计使得Tendermint区块链的节点可以通过不同的应用程序来实现不同的功能，而不需要修改节点的代码。
 

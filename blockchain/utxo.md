@@ -1,5 +1,7 @@
 # UTXO未花费交易输出
 
+[Medium](https://andybowu.medium.com/)
+
 ## UTXO是什么？
 UTXO: Unspent Transaction Output，即未花费交易输出。
 

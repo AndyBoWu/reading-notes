@@ -1,8 +1,12 @@
 name: 'CI'
+
 on:
   push:
     tags:
       - '*'
+
+permissions:
+  contents: write
 
 jobs:
   release:

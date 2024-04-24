@@ -11,3 +11,5 @@
 2. [DevOps 和 SRE 工程师必备的 60 个 Linux 命令 - 2](linux/common_cmd_2.md)
 3. [DevOps 和 SRE 工程师必备的 60 个 Linux 命令 - 3](linux/common_cmd_3.md)
 4. [DevOps 和 SRE 工程师必备的 60 个 Linux 命令 - 4](linux/common_cmd_4.md)
+
+## Github Actions 

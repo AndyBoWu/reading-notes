@@ -4,9 +4,11 @@
 1. [UTXO未花费交易输出](blockchain/utxo.md)
 2. [Mempool内存池](blockchain/mempool.md)
 3. [预编译合约](blockchain/precompiles.md)
+4. [掌握未来：探索 Ethereum 和 Cosmos 治理提案之间的关键差异](blockchain/eip_cgp.md)
 
 ## Cosmos 生态
 1. [ABCI的区块链节点如何处理交易并产生新的区块](cosmos/abci_workflow.md)
+
 
 ## English 英语
 

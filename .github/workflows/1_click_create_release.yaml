@@ -1,0 +1,32 @@
+name: Manual Version Update
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Select version increment: major, minor, or patch'
+        required: true
+        type: choice
+        options:
+          - major
+          - minor
+          - patch
+  pull_request:
+    types: [opened, synchronize]
+
+
+permissions:
+  contents: write  # Allows workflows to commit, branch, etc.
+  actions: write   # Allows workflows to create, cancel, and rerun workflows
+
+jobs:
+
+  Timestamp:
+    uses: AndyBoWu/gha-workflows/.github/workflows/reusable-timestamp.yml@main
+
+  # update version of package.json and push to repo
+  Bump-Version:
+    needs: [ Timestamp ]
+    uses: AndyBoWu/gha-workflows/.github/workflows/reusable-bump-version.yml@feat/add_reusable_bump_version
+    with:
+      version: 'patch'

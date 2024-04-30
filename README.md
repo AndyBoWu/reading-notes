@@ -25,3 +25,5 @@
 ## Terraform 基础
 
 
+## Random Thoughts 随笔
+1. [剃牦牛](random_thoughts/yak_shaving.md)

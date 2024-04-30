@@ -23,7 +23,9 @@
 
 ## 肿么办？
 **1. 定义清晰的目标和边界：** 在开始工作前，明确你的主要目标和任务的边界。这可以帮助你专注于核心任务，避免在不必要的细节上花费过多时间。
+
 **2.做好任务分解：** 把大任务分解成小的、可管理的部分，并为每一部分设置优先级。这样可以帮助你保持进度，并减少因处理边缘问题而偏离主线的机会。
+
 **3.定期评估进度：** 在执行过程中定期回顾和评估你的进度和工作重点。如果发现自己偏离了最初的目标，需要调整方向或寻求帮助，以确保工作的效率和目标的达成。
 
 #剃牦牛 #云服务优化 #任务分解 #目标定义 #避免无关任务 #效率提升 #项目管理 #故障排查 #定期评估 #工作重点 #YakShaving #CloudServiceOptimization #TaskDecomposition #GoalSetting #AvoidingDistractions #EfficiencyImprovement #ProjectManagement #Troubleshooting #RegularReview #FocusOnWork

@@ -22,6 +22,9 @@
 3. [DevOps 和 SRE 工程师必备的 60 个 Linux 命令 - 3](linux/common_cmd_3.md)
 4. [DevOps 和 SRE 工程师必备的 60 个 Linux 命令 - 4](linux/common_cmd_4.md)
 
+## NFT 非同质化代币
+1. [ERC-6551：NFT 的下一代标准](nft/erc6551.md)
+
 ## Terraform 基础
 
 

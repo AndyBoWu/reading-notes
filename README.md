@@ -5,6 +5,7 @@
 2. [Mempool内存池](blockchain/mempool.md)
 3. [预编译合约](blockchain/precompiles.md)
 4. [掌握未来：探索 Ethereum 和 Cosmos 治理提案之间的关键差异](blockchain/eip_cgp.md)
+5. [Merkle 树简介：区块链技术的不可或缺组件](blockchain/merkle_root.md)
 
 ## ChatGPT 对话生成
 1. [COSTAR 框架](chatgpt/costar.md)
